@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+width: 100%; 
+height: 20vh;
+min-height: 100vh;
+background-image: url(net.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: -20px;
+padding: 50px;
+font-weight: bold;
+font-size: 14px;
+}
+
+.about p {
+     position: center;
+    text-align: center;
+    color: white;
+    
+}
+
+.about h1{
+    position: center;
+    color:  red;
+    text-align: center;
+}
+
+
+
+
+.maxm img{
+width: 80%;
+height: 80%;
+margin-top: 10px;
+margin-left: 10%;
+border-radius: 10px;
+}
+
+.maxm-text{
+position: relative;
+text-align: center;
+color: black;
+font-size: 13px;
+padding: 10px;
+}
+
